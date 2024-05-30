@@ -1,0 +1,15 @@
+html {
+  max-width: 100vw;
+}
+.carousel {
+  max-width: 700px;
+  justify-content: center;
+  left: 50;
+  transform: translateX(40%);
+}
+
+.page {
+  /* transform: translateX(40%); */
+  margin-top: 5rem;
+  /* max-width: 100vw; */
+}
